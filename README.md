@@ -6,4 +6,4 @@
 
 * ***Código del curso:*** IC-4302.
 
-Este repositorio almacenará todas las evaluaciones relacionadas al curso de **Bases de Datos II**
+Este repositorio almacenará todas las evaluaciones relacionadas con el curso de **Bases de Datos II**
